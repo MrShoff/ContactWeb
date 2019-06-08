@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{D3446AEC-D81F-4311-9760-D4C9418EDC00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb.Tests", "ContactWeb.Tests\ContactWeb.Tests.csproj", "{F93C3475-A3AB-4E19-B5E0-6E66E5223C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3446AEC-D81F-4311-9760-D4C9418EDC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3446AEC-D81F-4311-9760-D4C9418EDC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3446AEC-D81F-4311-9760-D4C9418EDC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3446AEC-D81F-4311-9760-D4C9418EDC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93C3475-A3AB-4E19-B5E0-6E66E5223C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93C3475-A3AB-4E19-B5E0-6E66E5223C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93C3475-A3AB-4E19-B5E0-6E66E5223C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93C3475-A3AB-4E19-B5E0-6E66E5223C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF83440-7A8E-441E-B218-DEA3D3B99EBB}
+	EndGlobalSection
+EndGlobal
